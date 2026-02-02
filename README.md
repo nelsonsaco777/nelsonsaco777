@@ -5,7 +5,7 @@
 
 🎯 Estudante de informática no IPIL  
 📍 Luanda, Angola  
-🚀 Focado em lógica, Python, Web e Banco de Dados  
+🚀 Focado em lógica, Python, Web, C# e Banco de Dados  
 📚 Aprendendo com projetos e conteúdos do Curso em Vídeo (Gustavo Guanabara)
 
 ---
